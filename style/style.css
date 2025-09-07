@@ -38,7 +38,7 @@ body {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 4rem;
 }
 
 .one > img {
@@ -241,19 +241,19 @@ body {
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 55%;
+    left: 58%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 50%;
+    left: 54%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 50%;
+    left: 54%;
   }
 }
 
